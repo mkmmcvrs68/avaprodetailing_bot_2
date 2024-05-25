@@ -24,7 +24,7 @@ Avaprodetailing - это Telegram-бот, разработанный для ав
 ### Работа с проектом.
 Для начала необходимо клонировать репозиторий и зайти в рабочую директорию проекта.
 ```
-git@github.com:Studio-Yandex-Practicum/avaprodetailing_bot_2.git
+git@github.com:mkmmcvrs68/avaprodetailing_bot_2
 ```
 ```
 cd avaprodetailing_bot_2
