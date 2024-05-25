@@ -71,7 +71,3 @@ https://t.me/avaprodetailingbot
 ### Авторы проекта:
 - [Антон Земцов](https://github.com/antonata-c)
 - [Максим Козлов](https://github.com/mkmmcvrs68)
-- [Илья Рыкованов](https://github.com/ilyaryk)
-- [Владислав Ермаков](https://github.com/Vladislav199912)
-- [Павел Филиппов](https://github.com/pgphil86)
-- [Павел Войнов](https://github.com/R1su)
