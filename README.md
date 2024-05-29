@@ -1,4 +1,4 @@
-# Проект Телеграмм-бота 'Avaprodetailing', сделанный командой Антона.
+# Проект Телеграмм-бота 'Avaprodetailing'
 
 [![Python](https://img.shields.io/badge/Python-blue.svg)](https://www.python.org/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-blue.svg)](https://www.sqlalchemy.org/)
